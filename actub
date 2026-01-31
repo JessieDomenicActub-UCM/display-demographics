@@ -1,0 +1,17 @@
+using System;
+
+public class HelloWorld
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine ("Student ID      :   22712145                           ");
+        Console.WriteLine ("Full Name       :   Jessie Domenic B.Actub             ");
+        Console.WriteLine ("Nick Name       :   Mangz                              ");
+        Console.WriteLine ("Gender          :   Male                               ");
+        Console.WriteLine ("Year Level      :   2nd Year                           ");
+        Console.WriteLine ("Home Location   :   145 Figueroa st Sawang Calero CC   ");
+        Console.WriteLine ("Course          :   BSIT                               ");
+        Console.WriteLine ("Mobile Number   :   09683250491                        ");
+        Console.WriteLine ("Personal Email  :   Jessiemangz11@gmail.com            ");
+    }
+}
